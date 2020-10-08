@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2ca7bdc-c28d-48d1-a344-392b45142967" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/passport.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/passport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/posts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api/profiles.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/profiles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/api/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/education.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/education.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/experience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/is-empty.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/is-empty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validation/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/validation/register.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +35,11 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.0" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -53,7 +68,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592580833598</updated>
-      <workItem from="1592580834943" duration="6489000" />
+      <workItem from="1592580834943" duration="29058000" />
+      <workItem from="1593065229991" duration="352000" />
+      <workItem from="1593101245805" duration="5407000" />
+      <workItem from="1593701846904" duration="9547000" />
+      <workItem from="1594228473371" duration="5196000" />
+      <workItem from="1594563611684" duration="304000" />
+      <workItem from="1596646862931" duration="4176000" />
+      <workItem from="1597598354286" duration="4000" />
+      <workItem from="1598114043615" duration="1509000" />
+      <workItem from="1598206188463" duration="10055000" />
+      <workItem from="1598980820476" duration="13267000" />
+      <workItem from="1599070159932" duration="843000" />
+      <workItem from="1599146034501" duration="11839000" />
+      <workItem from="1599413601911" duration="1376000" />
+      <workItem from="1599931058847" duration="597000" />
+      <workItem from="1600425801344" duration="2463000" />
+      <workItem from="1600428539909" duration="27393000" />
+      <workItem from="1600635289179" duration="569000" />
+      <workItem from="1600635870462" duration="4673000" />
+      <workItem from="1601109455339" duration="644000" />
+      <workItem from="1601132401640" duration="41003000" />
+      <workItem from="1601819701314" duration="29664000" />
     </task>
     <servers />
   </component>
@@ -65,7 +101,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
